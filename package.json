@@ -1,16 +1,17 @@
 {
-  "name": "file_manager",
-  "version": "1.0.0",
-  "description": "gestion ecriture et de lecture des ficher avec nodejs",
-  "main": "app",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "samfresh09",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.2",
-    "fs": "^0.0.1-security",
-    "uuid": "^9.0.1"
-  }
+    "name": "file_manager",
+    "version": "1.0.0",
+    "description": "gestion ecriture et de lecture des ficher avec nodejs",
+    "main": "app",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "samfresh09",
+    "type": "module",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "fs": "^0.0.1-security",
+        "uuid": "^9.0.1"
+    }
 }
