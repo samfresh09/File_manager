@@ -1,0 +1,11 @@
+{
+  "name": "file_manager",
+  "version": "1.0.0",
+  "description": "gestion ecriture et de lecture des ficher avec nodejs",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samfresh09",
+  "license": "ISC"
+}
